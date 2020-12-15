@@ -1,7 +1,4 @@
-### Hi, My Name is Ryan
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rlew631&theme=highcontrast&show_icons=true&count_private=true)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rlew631&layout=compact)
 
 <!--
@@ -17,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 look at https://github.com/anuraghazra/github-readme-stats for more options
+-->
+
+
