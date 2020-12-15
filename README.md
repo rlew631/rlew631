@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, My Name is Ryan
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rlew631&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rlew631&layout=compact)
 
 <!--
 **rlew631/rlew631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+look at https://github.com/anuraghazra/github-readme-stats for more options
