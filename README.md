@@ -2,7 +2,7 @@
 
 <table border="0">
  <tr>
-  <th colspan="2" scope="colgroup"style="font-size:30px">Languages and Tools</th>
+  <th colspan="2" style="font-size:40px">Languages and Tools</th>
  </tr>
  <tr>
     <td><b style="font-size:30px">Data Science/ Machine Learning</b></td>
@@ -36,7 +36,7 @@
 
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![MacOS](https://img.shields.io/badge/mac-os?logo=mac&logoColor=white&style=for-the-badge)
-</td>
+    </td>
  </tr>
 </table>
 
