@@ -2,11 +2,11 @@
 
 <table border="0">
  <tr>
-  <th colspan="2" style="font-size:40px">Languages and Tools</th>
+  <th colspan="2" style="font-size:40px">Languages, Systems and Tools</th>
  </tr>
  <tr>
-    <td><b style="font-size:30px">Data Science/ Machine Learning</b></td>
-    <td><b style="font-size:30px">Web Development</b></td>
+    <th>Data Science/ Machine Learning</th>
+    <th>Web Development</th>
  </tr>
  <tr>
     <td>
@@ -41,11 +41,8 @@
     </td>
  </tr>
  <tr>
-  <th colspan="2" style="font-size:40px">Systems</th>
- </tr>
- <tr>
-    <td><b style="font-size:30px">Operating Systems</b></td>
-    <td><b style="font-size:30px">Embedded Systems</b></td>
+    <th>Operating Systems</th>
+    <th>Embedded Systems</th>
  </tr>
  <tr>
   <td>
@@ -67,6 +64,7 @@
 **rlew631/rlew631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 update the matlab colors 
+fix the streamlit logo by using the svg from the site
 
 Here are some ideas to get you started:
 
