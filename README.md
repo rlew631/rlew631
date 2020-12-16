@@ -30,19 +30,42 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ab1025a63c984f248_RGB_Logo_Horizontal_Color_Dark_Bg-p-2000.png" height="28">
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![MacOS](https://img.shields.io/badge/mac-os?logo=mac&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
     </td>
  </tr>
+ <tr>
+  <th colspan="2" style="font-size:40px">Systems</th>
+ </tr>
+ <tr>
+    <td><b style="font-size:30px">Operating Systems</b></td>
+    <td><b style="font-size:30px">Embedded Systems</b></td>
+ </tr>
+ <tr>
+  <td>
+   
+   ![MacOS](https://img.shields.io/badge/mac-os?logo=apple&logoColor=white&color=999999&style=for-the-badge)
+   ![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
+   ![Debian](https://img.shields.io/badge/-debian-A81D33?style=for-the-badge&logo=debian)
+  </td>
+  <td>
+ 
+   ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry%20Pi)
+   ![Arduino](https://img.shields.io/badge/-arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FFFFFF)
+   </td>
+  </tr>
+ 
 </table>
 
 <!--
 **rlew631/rlew631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+maybe reverse the ubunutu logo/bg colors
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
