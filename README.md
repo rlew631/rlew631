@@ -1,6 +1,9 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=rlew631&theme=ayu-mirage&show_icons=true&count_private=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rlew631&theme=ayu-mirage&layout=compact)
-
 <table border="0">
+<tr>
+<th colspan="2" style="font-size:40px">
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=rlew631&theme=ayu-mirage&show_icons=true&count_private=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rlew631&theme=ayu-mirage&layout=compact)
+ </th>
+</tr>
  <tr>
   <th colspan="2" style="font-size:40px">Languages and Tools</th>
  </tr>
