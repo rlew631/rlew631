@@ -59,7 +59,9 @@
   </tr>
  
 </table>
-<img src="ezgif.com-gif-maker (2).gif"></img>
+
+[<img src="site.gif">](https://rlew631.github.io/portfolio/)
+
 <!--
 **rlew631/rlew631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
