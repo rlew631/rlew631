@@ -30,8 +30,9 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
-<img src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e18182ab1025a63c984f248_RGB_Logo_Horizontal_Color_Dark_Bg-p-2000.png" height="28">
+![Streamlit](https://img.shields.io/badge/Streamlit%20-%23FF4B4B.svg?&style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
@@ -66,7 +67,6 @@
 **rlew631/rlew631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 update the matlab colors 
-fix the streamlit logo by using the svg from the site
 
 Here are some ideas to get you started:
 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 look at https://github.com/anuraghazra/github-readme-stats for more options
 
-put in a streamlit badge for web dev stuff
+streamlit badge showed text but no logo in the preview. might be since it's still new
 -->
 
 
