@@ -61,6 +61,7 @@
  
 </table>
 
+## Check out my Website to Find Out More About My Work or Get in Touch
 [<img src="site.gif">](https://rlew631.github.io/portfolio/)
 
 <!--
