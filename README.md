@@ -37,8 +37,9 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
     </td>
  </tr>
  <tr>
@@ -83,6 +84,10 @@ Here are some ideas to get you started:
 look at https://github.com/anuraghazra/github-readme-stats for more options
 
 streamlit badge showed text but no logo in the preview. might be since it's still new
+
+old formatting for badges:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-4479A1?style=for-the-badge&logo=streamlit&logoColor=white)
 -->
 
 
