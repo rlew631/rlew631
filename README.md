@@ -5,7 +5,7 @@
   <th colspan="2" style="font-size:40px">Languages, Systems and Tools</th>
  </tr>
  <tr>
-    <th>Data Science/ Machine Learning</th>
+    <th>Data Science / Engineering</th>
     <th>Web Development</th>
  </tr>
  <tr>
